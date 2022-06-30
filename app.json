@@ -1,8 +1,8 @@
 {
-  "name": "RTX-01",
-  "description": "RTX-01",
+  "name": "Vte-01",
+  "description": "Vte-01",
   "keywords": [
-    ""
+    
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/YundtTheresa/XR-001",
-  "repository": "https://github.com/YundtTheresa/XR-001",
+  "website": "https://github.com/Yfeeio/Vte-01",
+  "repository": "https://github.com/Yfeeio/Vte-01",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
